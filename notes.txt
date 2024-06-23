@@ -1,0 +1,5 @@
+django-admin startproject todo--starts the project
+python manage.py startapp todoapp1
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
